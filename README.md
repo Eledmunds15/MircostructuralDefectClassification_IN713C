@@ -1,0 +1,2 @@
+# Introduction
+Building on my dissertation, I've been meaning to experiement with using neural networks to classify the variety of microstructural defects that can be found in Inconel 713 alloys. The Inconel 713 alloys were produced using Selective Laser Melting (SLM) during a doctoral research program at the University of Sheffield and should be accreditted accordingly. The original form of many of the scripts in this repository are based on the scripts developed as part of my final year project.
